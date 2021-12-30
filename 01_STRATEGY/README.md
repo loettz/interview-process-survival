@@ -12,7 +12,7 @@ Applying is exhausting, and you don't want to waste time or energy.
 
 ## Important components of your strategy :pick:
 
-### What do I want my next career step to be like?
+### What do you want your next career step to be like?
 
 Are you searching for a position with more experienced devs from whom you can learn or do you want to work in
 a leading position or as a senior?
@@ -69,5 +69,19 @@ As far as I noticed, more than 5 years is the most common definition.
 If you have 5+ years of experience, you can be more picky with jobs you want to apply to. 
 It can be useful for you to be extra sensitive with research before applying. Applying to more than
 just 2 opportunities can still benefit you -> it gives you the chance to compare and choose if you have 
-a few offers on the table.
+a few offers on the table. Getting interviews is a lot easier as a Senior, but the Interviews itself
+will be more challenging. A company that wants to hire (and pay) a Senior wants to be sure, if you can
+prove that you are a Senior.
+
+## Build or use your Network
+
+Your Network doesn't only consist of you ex colleagues and classmates. Do you know anyone
+who works at a company that might has interesting job opportunities for you? Your best friends Mum,
+your Aunts Dog Hairdressers Sister, someone from your sports club?
+
+If there's a job offer out there that you like, and you have the opportunity to get a **referral**
+this will increase your chance to get interviewed.
+
+If you see a job ad and find the recruiters name, you can try to find them on LinkedIn and reach out to them.
+
 
