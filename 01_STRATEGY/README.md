@@ -70,7 +70,7 @@ If you have 5+ years of experience, you can be more picky with jobs you want to 
 It can be useful for you to be extra sensitive with research before applying. Applying to more than
 just 2 opportunities can still benefit you -> it gives you the chance to compare and choose if you have 
 a few offers on the table. Getting interviews is a lot easier as a Senior, but the Interviews itself
-will be more challenging. A company that wants to hire (and pay) a Senior wants to be sure, if you can
+will be more challenging. A company that wants to hire (and pay) a Senior wants to be sure, that you can
 prove that you are a Senior.
 
 ## Build or use your Network
