@@ -37,3 +37,9 @@ A few things to consider when you create your CV :sunglasses:
 + clutter the CV with information (2-4 bullet points per job are enough)
 + unclear structure and cryptic description of previous jobs
 + save as a different format than PDF (some text editors format different than others and can mess up your CV)
+
+
+## Review :repeat_one:
+
+Try to get some Feedback on your CV (friends, family, colleagues, fellow students). Asking 1-3 other people
+for Feedback on your CV can be very beneficial. If you get useful Feedback you can improve your CV once again, before you apply.
