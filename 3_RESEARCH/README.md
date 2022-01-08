@@ -8,25 +8,27 @@ some may be more interesting for you than others.
 
 ## Websites for Job Search
 
-+ indeed
-+ glassdoor
-+ linkedin (+ xing for DACH area)
-+ monster
-+ stackoverflow
-+ honeypot (europe focused)
-+ github
++ [Indeed](https://www.indeed.com)
++ [Glassdoor](https://www.glassdoor.com)
++ [LinkedIn](https://www.linkedin.com) (+ [xing](https://www.xing.com/) for DACH area)
++ [Monster](https://www.monster.com)
++ [Stackoverflow jobs](https://stackoverflow.com/jobs)
++ [honeypot](https://www.honeypot.io/) (europe focused)
 
 ### Websites for **remote** Jobs
 
-+ weworkremotely
-+ linkedin (remote filter) 
-+ remotive.io
-+ https://arc.dev/
++ [we work remotely](https://weworkremotely.com/)
++ [LinkedIn](https://www.linkedin.com) (with remote filter) 
++ [Remotive](https://remotive.io/)
++ [arc()](https://arc.dev/)
++ [remote.co](https://remote.co/remote-jobs/)
++ [Euremote](https://euremotejobs.com/) (EMEA)
++ [Flexjobs](https://www.flexjobs.com/)
 
 ### Websites for jobs with **relocation assistance**
 
-+ relocate.me
-+ https://stackoverflow.com/jobs/paid-relocation-developer-jobs (relocation filter)
++ [relocate.me](https://relocate.me/)
++ [Stackoverflow](https://stackoverflow.com/jobs/paid-relocation-developer-jobs) (with relocation filter)
 
 ### Find local Jobs
 
