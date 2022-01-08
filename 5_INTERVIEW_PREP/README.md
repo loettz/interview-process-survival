@@ -80,7 +80,7 @@ and you don't need to be a pro in all of them.
     question that exists. Take notes :pencil2: or create tables in notion, excel or a program of your choice.
     Make sure to also bookmark :pushpin: useful websites and resources.   
    
-4. ### prepare questions :grey_question:
+4. #### prepare questions :grey_question:
     Preparing questions is also a very important part for interviews. Some of your questions might
     get answered during the interview, so I would suggest preparing a few backup questions (ask 2-4 questions, prepare 6-8).   
 
