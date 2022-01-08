@@ -1,5 +1,11 @@
 # 1. Interview Prep :microphone:
 
+## Table of Contents :pushpin:
+1. [Intro](#prepare-for-different-kinds-of-interviews-crystal_ball)
+2. [Initial interview](#initial-interview-telephone_receiver)
+3. [Technical Interview](#the-technical-interview)
+4. [Cultural Fit Interview](#cultural-fit-behavioral-interview-bomb)
+
 
 ## Prepare for different kinds of interviews :crystal_ball:
 Most companies have several steps of interviewing, and they all have their own structure for that. 
@@ -17,18 +23,25 @@ of the interview process probably doesn't have correlation to how hard the job i
 
 ## Initial interview :telephone_receiver:
 An initial phone (or video) call with a recruiter is something a lot of companies do in their application process.
-Sometimes the initial interview is done with a developer or another technical person. To be sure what kind
-of professional background the interviewer has, look on LinkedIn (if you don't know already).
+Sometimes the initial interview is done with a developer or another technical person instead of a recruiter. 
+To be sure what kind of professional background the interviewer has, look on LinkedIn (if you don't know already).
 The initial interview is often a short interview to get to know you and pre-check if you could be a good match both technical
-and personal. You will most likely get asked to tell something about yourself. Prepare a short talk about yourself and use
+and personal. You will most likely get asked to tell something about yourself. 
+
+1. Prepare a short talk about yourself and use
 the opportunity to highlight the things that are important to you and relevant for the position.
-If you're switching jobs you'll also need to answer why you want to leave your previous job and why you chose this
-position to apply to. Sometimes you also get asked some technical questions. With a company recruiter they probably
+   
+2. If you're switching jobs you'll also need to answer why you want to leave your previous job and why you chose this
+position to apply to. 
+   
+3. Sometimes you also get asked some technical questions. With a company recruiter they probably
 want to check if you can explain some technical context to a non-technical person. If the initial interview
 is with a person from the technical field, they probably do pre-check your tech skills.
-Behavioral / cultural fit questions can be also asked in an initial interview. This is not often the case, but it's still
+   
+4. Behavioral / cultural fit questions can be also asked in an initial interview. This is not often the case, but it's still
 good to be aware that this can happen.
-An initial interview is your first chance to make a good impression and because initial interviews can vary a lot
+
+:dancers: An initial interview is your first chance to make a good impression and because initial interviews can vary a lot
 between companies, it's good to be prepared for different scenarios.
 
 
