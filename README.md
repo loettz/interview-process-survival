@@ -5,13 +5,13 @@ My name is Lotte and I've been a developer for more than 5 years.
 
 ## Table of contents
 
-[0. Overview :page_facing_up:](0_OVERVIEW)
-[1. Strategy :chart_with_upwards_trend:](1_STRATEGY)
-[2. CV :pencil:](2_CV)
-[3. Research :mag:](3_RESEARCH)
-[4. Cover Letter :envelope:](4_COVER_LETTER)
-[5. Interview Prep :microphone:](5_INTERVIEW_PREP)
-[6. Coding Task Prep :dart:](6_CODING_TASK_PREP)
+0. [Overview :page_facing_up:](0_OVERVIEW)
+1. [Strategy :chart_with_upwards_trend:](1_STRATEGY)
+2. [CV :pencil:](2_CV)
+3. [Research :mag:](3_RESEARCH)
+4. [Cover Letter :envelope:](4_COVER_LETTER)
+5. [Interview Prep :microphone:](5_INTERVIEW_PREP)
+6. [Coding Task Prep :dart:](6_CODING_TASK_PREP)
 
 ## Who this is made for :star:
 
