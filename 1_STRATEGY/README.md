@@ -47,41 +47,42 @@ good about it and what wasn't. What were things you wanted to change? :triangula
 ### Juniors
 
 As a junior quantity matters a lot more than for a more experienced dev.
-You don't need to apply to every single job you find, but I suggest you to apply even if
+You don't need to apply to every single job you find, but I suggest you to apply even if:
 + you only know 30% of the tech stack
 + the job asks for 2 years of experience
 + the job is not 100% what you are looking for
 
 It's harder in the beginning, and you need to do more research and possibly put in more effort than others.
-Interview experience will also help you a lot, so try to apply to lots of jobs to get interviews.
+[Interview](/5_INTERVIEW_PREP) experience will also help you a lot, so try to apply to lots of jobs to get interviews.
 
 ### Mid-Levels (1-2+ Years of experience)
 
-Your first experience will make the job hunt a lot easier, but the interviews and coding challenges will also get a bit harder.
+Your first experience will make the job hunt a lot easier, but the [interviews](/5_INTERVIEW_PREP) and [coding challenges](/6_CODING_TASK_PREP) will also get a bit harder.
 Quantity isn't the most important thing anymore, but I would still suggest sending out a few more applications,
 so you can compare jobs, get more interview experience, and you're prepared for a few possible rejections.
 
 ### Senior (5+ Years of experience)
 
-**Disclaimer:** most companies have a own definition of how many years of experience you need to be considered a Senior.
+**Disclaimer:** most companies have an own definition of how many years of experience you need to be considered a senior.
 As far as I noticed, more than 5 years is the most common definition.
 
 If you have 5+ years of experience, you can be more picky with jobs you want to apply to. 
-It can be useful for you to be extra sensitive with research before applying. Applying to more than
+It can be useful for you to be extra sensitive with [research](/3_RESEARCH) before applying. Applying to more than
 just 2 opportunities can still benefit you -> it gives you the chance to compare and choose if you have 
-a few offers on the table. Getting interviews is a lot easier as a Senior, but the Interviews itself
-will be more challenging. A company that wants to hire (and pay) a Senior wants to be sure, that you can
-prove that you are a Senior.
+a few offers on the table. Getting [interviews](/5_INTERVIEW_PREP) is a lot easier as a Senior, but the interviews itself
+and [coding challenges](/6_CODING_TASK_PREP) will be more challenging. 
+A company that wants to hire (and pay) a senior wants to be sure, that you can prove that you are a one.
 
 ## Build or use your Network
 
 Your Network doesn't only consist of you ex colleagues and classmates. Do you know anyone
 who works at a company that might has interesting job opportunities for you? Your best friends Mum,
-your Aunts Dog Hairdressers Sister, someone from your sports club?
+your Aunts Dogs Hairdresser, someone from your sports club?
 
 If there's a job offer out there that you like, and you have the opportunity to get a **referral**
-this will increase your chance to get interviewed.
+this will increase your chance to get [interviewed](/5_INTERVIEW_PREP).
 
 If you see a job ad and find the recruiters name, you can try to find them on LinkedIn and reach out to them.
 
 
+:arrow_right: Go to [next section](/2_CV)

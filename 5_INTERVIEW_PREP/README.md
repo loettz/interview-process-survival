@@ -9,15 +9,16 @@
 
 ## Prepare for different kinds of interviews :crystal_ball:
 Most companies have several steps of interviewing, and they all have their own structure for that. 
-Some will tell you before how the application process steps with their company will look like -  and some don't.
-If they don't tell you the process right before, just reach out to your contact person and ask.
+Some will tell you before how the application process steps will look like -  and some don't.
+If they don't tell you about the process right before, just reach out to your contact person and ask.
 Knowing what kind of interview is coming will make the preparation for the next step easier.
-Some companies start with a technical interview immediately, some have an initial interview with a recruiter
-at first, and some do a mix of initial, tech and cultural fit.
+Some companies start with a [technical interview](#the-technical-interview) immediately, some have an 
+[initial interview](#initial-interview-telephone_receiver) with a recruiter 
+at first, and some do a mix of initial, tech and [cultural fit](#cultural-fit-behavioral-interview-bomb).
 Even if most people fear the technical part the most, you should still prepare other interviews too.
 
 Big companies often have longer interview processes than small companies and startups. However, the intensity
-of the interview process probably doesn't have correlation to how hard the job itself will be.
+of the interview process often says nothing about how hard the job itself will be.
 
 **The trick is to prepare, without stressing and over preparing** :sparkles:
 
@@ -38,8 +39,8 @@ position to apply to.
 want to check if you can explain some technical context to a non-technical person. If the initial interview
 is with a person from the technical field, they probably do pre-check your tech skills.
    
-4. Behavioral / cultural fit questions can be also asked in an initial interview. This is not often the case, but it's still
-good to be aware that this can happen.
+4. [Behavioral / cultural fit](#cultural-fit-behavioral-interview-bomb) questions can be also asked in an initial interview. 
+This is not often the case, but it's still good to be aware that this can happen.
 
 :dancers: An initial interview is your first chance to make a good impression and because initial interviews can vary a lot
 between companies, it's good to be prepared for different scenarios.
@@ -48,7 +49,7 @@ between companies, it's good to be prepared for different scenarios.
 ## The technical interview
 
 Technical interviews are hard :fire:
-You'll never know what will happen. You will have to answer a ton of technical questions and sometimes 
+You'll never know what will happen. You will have to answer a lot of technical questions and sometimes 
 you have to do live coding or even writing pseudo code on a white board (luckily, I never had to do that).
 **Not knowing how to answer all the questions is totally fine**, your potential future colleagues just want
 to grasp your knowledge very well to assess your current level.
@@ -107,7 +108,7 @@ Ask your questions, take some notes and ask when you can expect feedback.
 
 #### after the interview
 Take notes about your impressions. Things that you liked about the interview/people/tech stack and what you didn't like.
-During an interview you're excited and sometimes you forget a few details when time passes.
+During an interview you're excited and pumped with adrenaline, so sometimes you forget a few details afterwards.
 I personally found that having notes during an interview process was beneficial for me.
 
 ## Cultural fit (behavioral) interview :bomb:
@@ -131,5 +132,8 @@ Don't talk negatively about ex colleagues, managers and projects.
 
 
 #### Research :computer:
-Similar to the technical interview questions I suggest you to research common behavioral interview questions
+Similar to the [technical interview](#the-technical-interview) questions I suggest you to research common behavioral interview questions
 and try to find good examples for the most mentioned questions.
+
+
+:arrow_right: Go to [next section](/6_CODING_TASK_PREP)

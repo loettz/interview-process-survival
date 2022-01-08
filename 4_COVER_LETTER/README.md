@@ -3,7 +3,7 @@
 
 ## Always send a Cover Letter
 Some applications require a cover letter, for others it's optional. Even if it's optional, I would 
-still always include one. It's a great opportunity to show a company more about your skillset, your experience and
+still **always** include one. It's a great opportunity to show a company more about your skillset, your experience and
 that you're a great match. It also shows that you really care about the opportunity, and that you are
 willing to put some effort in your application.
 
@@ -20,7 +20,7 @@ also mention which impact you made in previous jobs.
 
 #### For juniors with little to no experience in that field
 Highlight your transferable skills from previous jobs or education. Mention projects and/or skills
-you worked on in your free time. Describe how you get excited you get about learning new things, and your skill to 
+you worked on in your free time. Describe how you get excited about learning new things, and your ability to 
 process new information easy and fast.
 
 ### The Job opportunity you're applying to
@@ -28,8 +28,10 @@ After you gave some insight into your work experience, you should explain what y
 the company and how you can add value to them. Mention what you bring to the table and what you think you can learn from them.
 
 ### Outro
-Finish your cover letter and mention that you would be happy about the opportunity to introduce yourself in an interview.
+Finish your cover letter and mention that you would be happy about the opportunity to introduce yourself in an [interview](/5_INTERVIEW_PREP).
 
 ## Design
-Make sure your Cover Letter and CV work well together. Use a similar style, same fonts etc.
+Make sure your Cover Letter and [CV](/2_CV) work well together. Use a similar style, same fonts etc.
 
+
+:arrow_right: Go to [next section](/5_INTERVIEW_PREP)

@@ -2,7 +2,7 @@
 
 
 ## How to find the Job you're looking for
-You have many opportunities to research open positions. Based on your strategy
+You have many opportunities to research open positions. Based on your [strategy](/1_STRATEGY)
 some may be more interesting for you than others.
 
 
@@ -32,3 +32,6 @@ some may be more interesting for you than others.
 
 For local jobs its best to check out local job boards, newspapers or job boards from local universities.
 You can also watch out for job fares in your city.
+
+
+:arrow_right: Go to [next section](/4_COVER_LETTER)

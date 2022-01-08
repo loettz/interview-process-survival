@@ -9,13 +9,16 @@ Interview Processes - especially in the tech field, can be stressful. Many devel
 If this is you and you found this repo, I hope It will help. I went through several interview processes in my career, when I applied for
 Junior, Mid-Level and Senior positions.
 
+**This whole thing is from a web/frontend devs point of view and only reflects my experiences. Your experience may be different
+than mine - if you want to add something in here, let me know**
+
 
 ## What to expect :heavy_plus_sign:
 
-I will give you an overview about different interview stages, that may come with interview processes. How to prepare for them.
-How to find useful resources and what strategy may be useful based on your career stage.
+I will give you an [overview](0_OVERVIEW) about different interview stages, that may come with interview processes. How to prepare for them.
+How to find useful resources and what [strategy](1_STRATEGY) may be useful based on your career stage.
 I will also show you how you can use different experiences as a tool on your road to success.
-You can also find some cheatsheets in here, that will give you an overview of topics to prepare for interviews. 
+You can also find some cheatsheets in here, that will give you an overview of topics to prepare for [interviews](5_INTERVIEW_PREP). 
 
 
 ## What you won't find in this repository :heavy_minus_sign:
@@ -31,7 +34,7 @@ You can use this as a guide and go step by step through the directories (topics 
 or just look at a specific topic, that you want more information about.
 Long story short: use this however it works for you :star:
 
-If you are unsure where/how to start, go to /0_OVERVIEW
+If you are unsure where/how to start, go to [Overview](0_OVERVIEW)
 
 
 ## Something's missing? :ghost:
