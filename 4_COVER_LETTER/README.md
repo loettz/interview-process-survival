@@ -18,10 +18,18 @@ and why you're applying.
 In the next paragraph you can write more about your previous work experience, highlight some of your skills and 
 also mention which impact you made in previous jobs.
 
+#### For juniors with little to no experience in that field
+Highlight your transferable skills from previous jobs or education. Mention projects and/or skills
+you worked on in your free time. Describe how you get excited you get about learning new things, and your skill to 
+process new information easy and fast.
+
 ### The Job opportunity you're applying to
 After you gave some insight into your work experience, you should explain what you like about the job opportunity,
 the company and how you can add value to them. Mention what you bring to the table and what you think you can learn from them.
 
 ### Outro
 Finish your cover letter and mention that you would be happy about the opportunity to introduce yourself in an interview.
+
+## Design
+Make sure your Cover Letter and CV work well together. Use a similar style, same fonts etc.
 
