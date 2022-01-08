@@ -46,18 +46,18 @@ Try to not rage study everything at once and instead prepare with structure.
 Having blind spots in the companies tech stack is totally normal. Every job requires a different set of technologies,
 and you don't need to be a pro in all of them.
 
-1. ####make a list :memo:
+1. #### make a list :memo:
     Make a list of your technical skills (from your CV) and compare it to the tech stack from the job you're applying to.
     Highlight the matches :arrow_right: this will be your focus.
    
-2. ####check the blind spots :black_circle:
+2. #### check the blind spots :black_circle:
     Take all the technologies from the stack that you didn't highlight and do a **small**
     research. Write down what this technology is used for, and a bit of common information about it.
     Don't spent too much time on that. When you get asked about these technologies, you can
     show that you have some common knowledge about it and show some interest about it, but also be honest and
     say that you don't have experience in using it. 
    
-3. ####prepare your skills :star:
+3. #### prepare your skills :star:
     More important than knowing how to answer :sparkles:everything:sparkles: from the tech stack is to have solid
     answers for the technologies you know. Take all the highlighted technologies from the list and prepare common
     interview questions for these technologies.
@@ -67,9 +67,9 @@ and you don't need to be a pro in all of them.
     question that exists. Take notes :pencil2: or create tables in notion, excel or a program of your choice.
     Make sure to also bookmark :pushpin: useful websites and resources.   
    
-4. ###prepare questions :grey_question:
-Preparing questions is also a very important part for interviews. Some of your questions might
-get answered during the interview, so I would suggest preparing a few backup questions (ask 2-4 questions, prepare 6-8).   
+4. ### prepare questions :grey_question:
+    Preparing questions is also a very important part for interviews. Some of your questions might
+    get answered during the interview, so I would suggest preparing a few backup questions (ask 2-4 questions, prepare 6-8).   
 
    
 ### during the tech interview :hourglass:
@@ -93,9 +93,9 @@ Talking too much unnecessary stuff is also not recommended. **Balance is key**
 Ask your questions, take some notes and ask when you can expect feedback.
 
 #### after the interview
-Take notes about your impressions. Things that you liked about the interview/people/tech stack and what you don't liked.
-During an interview you're excited and sometimes you forget a few details some days later.
-I personally found that having notes during a process was beneficial for me.
+Take notes about your impressions. Things that you liked about the interview/people/tech stack and what you didn't like.
+During an interview you're excited and sometimes you forget a few details when time passes.
+I personally found that having notes during an interview process was beneficial for me.
 
 ## Cultural fit (behavioral) interview :bomb:
 Cultural fit interviews are part of the interview process in a lot of cases. Some companies just try to find out
