@@ -12,6 +12,7 @@ My name is Lotte and I've been a developer for more than 5 years.
 4. [Cover Letter :envelope:](4_COVER_LETTER)
 5. [Interview Prep :microphone:](5_INTERVIEW_PREP)
 6. [Coding Task Prep :dart:](6_CODING_TASK_PREP)
+7. [Resources :hammer:](7_RESOURCES)
 
 ## Who this is made for :star:
 

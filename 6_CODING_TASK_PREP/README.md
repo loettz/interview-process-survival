@@ -40,3 +40,6 @@ principle.
 
 If you have the time, test your code. It's better to add a few small unit tests than having no tests at all.
 This will show the developers that you care about testing when you code.
+
+:arrow_right: Go to [Resources](/7_RESOURCES)
+
