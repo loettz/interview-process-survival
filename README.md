@@ -29,7 +29,7 @@ than mine - if you want to add something in here, let me know**
 I will give you an [overview](0_OVERVIEW) about different interview stages, that may come with interview processes. How to prepare for them.
 How to find useful resources and what [strategy](1_STRATEGY) may be useful based on your career stage.
 I will also show you how you can use different experiences as a tool on your road to success.
-You can also find some cheatsheets in here, that will give you an overview of topics to prepare for [interviews](5_INTERVIEW_PREP). 
+You can also find some [resources](7_RESOURCES) in here, with helpful topics for [interview prep](5_INTERVIEW_PREP). 
 
 
 ## What you won't find in this repository :heavy_minus_sign:
