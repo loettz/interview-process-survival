@@ -2,7 +2,7 @@
 
 If you landed here, I guess you want to start, or you're already applying for jobs.
 In this directory I'll give you a short overview of the topics I'm including
-and why I think they're important. I you have a specific topic you're looking for, feel free to jump right into it.
+and why I think they're important. If you have a specific topic you're looking for, feel free to jump right into it.
 
 
 ## Topics in this Guide
