@@ -50,4 +50,4 @@ If you are unsure where/how to start, go to [Overview](0_OVERVIEW)
 
 ## Something's missing? :ghost:
 
-You have useful information that is missing in here? Feel free to get in touch :relaxed:
+You have useful information that is missing in here? Feel free to get in touch or [contribute :sparkles:](CONTRIBUTING.md) :relaxed:
