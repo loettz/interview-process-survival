@@ -62,7 +62,7 @@ contains examples in Java and unlike the Book from Emma Bostian, this is not fro
 ## Youtube :video_camera:
 
 + [Gift Egwuenu](https://www.youtube.com/c/EgwuenuGift/videos) has a lot of videos about [Frontend Development](https://www.youtube.com/watch?v=lnJG9grXqfs),
-  finding [Job opportunities abroad](https://www.youtube.com/watch?v=-tJ9xnuhR1s) and lots of other useful content.
+  finding [Job opportunities abroad](https://www.youtube.com/watch?v=-tJ9xnuhR1s) and lots of other useful content for tech people.
 
 + [Tiff in Tech](https://www.youtube.com/c/TiffInTech/videos) is a great channel with tips for a career in tech.
   She also talks about [how she became a software engineer without a degree](https://www.youtube.com/watch?v=8Xsn4-EwYc0)

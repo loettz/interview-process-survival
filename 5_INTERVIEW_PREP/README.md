@@ -17,8 +17,13 @@ Some companies start with a [technical interview](#the-technical-interview) imme
 at first, and some do a mix of initial, tech and [cultural fit](#cultural-fit-behavioral-interview-bomb).
 Even if most people fear the technical part the most, you should still prepare other interviews too.
 
+If you want to find out more about an application process regarding a specific company, 
+you can use glassdoor to read about experiences from other people. 
+Keep in mind that people most likely share a negative experience rather than a positive.
+Some people also share they're interview experience on Leetcode.
+
 Big companies often have longer interview processes than small companies and startups. However, the intensity
-of the interview process often says nothing about how hard the job itself will be.
+of the interview process says nothing about how hard the job itself will be.
 
 **The trick is to prepare, without stressing and over preparing** :sparkles:
 
@@ -100,7 +105,7 @@ that you couldn't answer).
 #### if you know the answer
 This is your moment to shine :sparkles:
 Take your time and don't talk to fast. Show that you have experience in the asked area.
-Don't answer too short, it's fine to show a little of :sparkler:extra:sparkler: information on the asked topic.
+Don't answer too short, it's fine to show a little of :sparkler:extra:sparkler: information about the asked topic.
 Talking too much unnecessary stuff is also not recommended. **Balance is key**
 
 #### at the end of the interview
@@ -124,11 +129,12 @@ Behavioral questions are used to find out how you handled previous situations
 when collaborating with other people. A lot of questions are targeted at finding out how you dealt with situations
 where something went wrong or where you were in a conflict with another person :cold_sweat: 
 It's extremely useful to think about good examples beforehand because handling these questions unprepared 
-can lead to either not knowing any examples or talking about a :zap:very bad:zap: work experience that makes you stand in a very poor light.
-Acting like you never had a bad experience or nothing went wrong ever is also not recommended.
+can lead to either not knowing any examples or talking about a :zap:very bad:zap: work experience that 
+makes you stand in a very poor light.
+Acting like you never had a bad experience or nothing ever went wrong is also not recommended.
 Try to find examples where you can talk about your learning from the mistakes that were made 
 and how you were able to turn the situation around. 
-Don't talk negatively about ex colleagues, managers and projects.
+**Don't talk negatively about ex colleagues, managers and projects.**
 
 
 #### Research :computer:

@@ -25,13 +25,18 @@ A few things to consider when you create your CV :sunglasses:
 + make it 1 page
 + cut out all irrelevant work experience
 + add relevant skills and transferable skills
+  if you don't have relevant skills from previous working experiences because you're just about
+  to break into tech, think about your transferable skills from other jobs and highlight these.
 + put in all your contact information
 + include your availability date and salary expectation
 + follow a clear structure
-+ save as PDF when you're done
 + include your github & personal portfolio if you have
+  having a portfolio and/or github page where you show some of your work
+  can be very beneficial. especially if you have little to no working experience, this makes
+  you stand out.
 + make it easy to understand how great you are
 + use a similar design with your [cover letter](/4_COVER_LETTER)
++ save as PDF when you're done
 
 ### DONT'S :x:
 

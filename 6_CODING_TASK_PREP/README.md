@@ -8,7 +8,8 @@ This will make it easier for you to schedule a coding task next to work or other
 
 Is your computer ready to do some coding?
 
-* [ ]  IDE is upt to date and running
+* [ ]  you have a dedicated workspace and computer/laptop
+* [ ]  IDE is up to date and running
 * [ ]  git is installed
 * [ ]  node.js is installed
 * [ ]  you have a github or bitbucket account to upload results
@@ -23,7 +24,7 @@ and try to make sure (if that's possible for you) that you don't get interrupted
 ## Clarification
 
 Read the instructions thorough. Make sure you understand the task. If you are unsure about something make sure to
-reach out to you contact person and ask.
+reach out to your contact person from the company and ask.
 
 ## Documentation
 

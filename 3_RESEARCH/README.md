@@ -18,11 +18,11 @@ some may be more interesting for you than others.
 ### Websites for **remote** Jobs
 
 + [we work remotely](https://weworkremotely.com/)
-+ [LinkedIn](https://www.linkedin.com) (with remote filter) 
++ [LinkedIn](https://www.linkedin.com) (with remote or hybrid filter) 
 + [Remotive](https://remotive.io/)
 + [arc()](https://arc.dev/)
 + [remote.co](https://remote.co/remote-jobs/)
-+ [Euremote](https://euremotejobs.com/) (EMEA)
++ [Euremote](https://euremotejobs.com/) (EMEA area)
 + [Flexjobs](https://www.flexjobs.com/)
 
 ### Websites for jobs with **relocation assistance**
