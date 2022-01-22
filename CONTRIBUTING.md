@@ -31,6 +31,7 @@ Interview processes are hard enough, we don't want to put people down.
 0. fork the repository and clone
 1. create a branch: `git checkout -b branch-name`
 2. apply your changes and add meaningful commit messages
-3. push to your forked repository and submit a pull request
-4. wait for your pull request to be reviewed.
+3. push to your forked repository
+4. submit a pull request with a brief description of your changes
+5. wait for your pull request to be reviewed.
 
