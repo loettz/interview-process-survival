@@ -12,7 +12,6 @@ some may be more interesting for you than others.
 + [Glassdoor](https://www.glassdoor.com)
 + [LinkedIn](https://www.linkedin.com) (+ [xing](https://www.xing.com/) for DACH area)
 + [Monster](https://www.monster.com)
-+ [Stackoverflow jobs](https://stackoverflow.com/jobs)
 + [honeypot](https://www.honeypot.io/) (europe focused)
 
 ### Websites for **remote** Jobs
