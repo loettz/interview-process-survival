@@ -73,7 +73,7 @@ As far as I noticed, more than 5 years is the most common definition.
 
 If you have 5+ years of experience, you can be more picky with jobs you want to apply to. At the same time
 this is not a guarantee to get every job – companies are picky too.
-It can be useful for you to be extra sensitive with [research](/3_RESEARCH) before applying. Applying to more than
+It can be useful for you to be extra sensitive with [research](/3_JOB_BOARDS) before applying. Applying to more than
 just one or two opportunities can still benefit you -> it gives you the chance to compare, choose and negotiate if you have 
 a few offers on the table. Getting [interviews](/5_INTERVIEW_PREP) is a lot easier as a Senior, but the interviews
 and [coding challenges](/6_CODING_TASK_PREP) will be more challenging. 

@@ -52,4 +52,4 @@ Try to get some Feedback on your CV (friends, family, colleagues, fellow student
 for Feedback on your CV can be very beneficial. If you get useful Feedback you can improve your CV once again, before you apply.
 
 
-:arrow_right: Go to [next section](/3_RESEARCH)
+:arrow_right: Go to [next section](/3_JOB_BOARDS)

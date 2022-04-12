@@ -16,9 +16,9 @@ and why I think they're important. If you have a specific topic you're looking f
   only a few seconds, before the first decision is made. Putting some effort in your CV can make the difference 
   if you make it to a process or not.
   
-+ [Research :mag:](/3_RESEARCH)
++ [Job Boards :mag:](/3_JOB_BOARDS)
   Researching job listings can be overwhelming, especially with tons of job boards,
-  advertisements and recruiters reaching out to you.
+  advertisements and recruiters reaching out to you. This is an overview of job boards with some additional info.
   
 + [Cover Letter :envelope:](/4_COVER_LETTER)
   A cover letter is often optional, but I will point out why I think you should
