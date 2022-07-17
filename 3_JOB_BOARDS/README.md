@@ -20,7 +20,7 @@ Hopefully this list will get longer and job boards will improve :rocket:
 | [Remotive](https://remotive.io/)                                  | :white_check_mark: | :x:                    | :x:                | :x:                          |                                                                               |
 | [arc()](https://arc.dev/)                                         | :white_check_mark: | :white_check_mark:     | :x:                | :x:                          |                                                                               |
 | [remote.co](https://remote.co/remote-jobs/)                       | :white_check_mark: | :x:                    | :x:                | :x:                          |                                                                               |
-| [Euremote](https://euremotejobs.com/)                             | :white_check_mark: | :white_check_mark:     | :x:                | :x:                          | EMEA area                                                                     |
+| [Euremote](https://euremotejobs.com/)                             | :white_check_mark: | :white_check_mark:     | :x:                | :x:                          | EMEA areas                                                                     |
 
 *referral link
 
